@@ -8,7 +8,7 @@ This study explores the per capita consumption of dairy products over the period
 **Key Findings**  
 
 **Historical Trends (1975-2014)**  
-- The per capita consumption of dairy products has shown fluctuations over the years.  
+- The per capita consumption of dairy products has shown fluctuations over the years.
 - Factors influencing dairy consumption include dietary trends, health awareness, economic conditions, and industry innovations.  
 
 **Breakdown of Dairy Consumption in 2014**  
